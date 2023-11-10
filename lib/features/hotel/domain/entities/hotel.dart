@@ -21,10 +21,6 @@ class Hotel extends Equatable {
     required this.price,
   });
 
-
-
-
-
   @override
   List<Object> get props {
     return [
